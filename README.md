@@ -8,4 +8,4 @@ DCL command procedures.
 
 A command procedure to gather data from OpenVMS VAX CONDIST CDROMs.
 
-
+Note that this procedure has been moved to the dec-cdrom-distros repo.
